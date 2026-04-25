@@ -29,7 +29,7 @@ Database: Firebase Firestore / Realtime DB
 Hosting: Vercel / Firebase Hosting
 🛠️ Installation & Setup
 Clone the repository:
-git clone https://github.com/your-username/amara-maternal-app.git
+git clone https://github.com/mgayathrimonika-a11y/amara-maternal-companion-app.git
 Navigate to the project folder:
 cd amara-maternal-app
 Install dependencies:
